@@ -1,0 +1,21 @@
+Remote Bell 使用说明
+
+成品文件：
+1. RemoteBellSender.exe：Windows 发送端。
+2. RemoteBellReceiver.apk：Android 接收端。
+
+基本用法：
+1. 在 Android 手机上安装 RemoteBellReceiver.apk。
+2. 打开 Remote Bell，允许通知权限。
+3. 保持“中转服务器”为 https://ntfy.sh。
+4. 保持“频道”和 Windows 端一致，默认频道为：
+   rb-liuc-2f4c9d7a8e6b4130a5d2c8e9f1b7a6c3
+5. 点“开始监听”，手机会显示常驻监听通知。
+6. 在 Windows 上运行 RemoteBellSender.exe，输入附带文字，点“发送响铃”。
+7. 手机收到后会持续响铃、震动并朗读文字，直到手动点“停止响铃”。
+
+注意：
+1. 手机和电脑不需要在同一 WiFi，但两边都需要能联网。
+2. 频道相当于口令；知道频道的人也能发送提醒。建议改成一串更长的随机文字，并在手机和电脑两端保持一致。
+3. 为了后台接收更可靠，建议在手机系统设置里允许该应用通知、后台运行，并关闭对该应用的省电限制。
+4. Windows exe 和 Android apk 都是本机自构建/自签名文件，首次运行或安装时系统可能提示未知发布者。
