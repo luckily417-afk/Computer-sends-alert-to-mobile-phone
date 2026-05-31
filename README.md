@@ -7,6 +7,7 @@ Please change the channel before use！
 If you can't see the blue button, please extend the window downward
 
 Why I made this
+
 I often let AI agents (Codex, open claw.) work on tasks while I am away from my computer.
 Sometimes the agent encounters something it cannot solve by itself, such as:
 * CAPTCHA verification
