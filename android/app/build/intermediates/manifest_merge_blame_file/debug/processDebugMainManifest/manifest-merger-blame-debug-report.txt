@@ -1,0 +1,96 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.liuc.remotebell"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="23"
+9        android:targetSdkVersion="35" />
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\Liuc\Documents\Codex\2026-05-31\exe-apk-apk-wifi\work\RemoteBell\android\app\src\main\AndroidManifest.xml:4:5-67
+11-->C:\Users\Liuc\Documents\Codex\2026-05-31\exe-apk-apk-wifi\work\RemoteBell\android\app\src\main\AndroidManifest.xml:4:22-64
+12    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+12-->C:\Users\Liuc\Documents\Codex\2026-05-31\exe-apk-apk-wifi\work\RemoteBell\android\app\src\main\AndroidManifest.xml:5:5-77
+12-->C:\Users\Liuc\Documents\Codex\2026-05-31\exe-apk-apk-wifi\work\RemoteBell\android\app\src\main\AndroidManifest.xml:5:22-74
+13    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+13-->C:\Users\Liuc\Documents\Codex\2026-05-31\exe-apk-apk-wifi\work\RemoteBell\android\app\src\main\AndroidManifest.xml:6:5-77
+13-->C:\Users\Liuc\Documents\Codex\2026-05-31\exe-apk-apk-wifi\work\RemoteBell\android\app\src\main\AndroidManifest.xml:6:22-74
+14    <uses-permission android:name="android.permission.FOREGROUND_SERVICE_DATA_SYNC" />
+14-->C:\Users\Liuc\Documents\Codex\2026-05-31\exe-apk-apk-wifi\work\RemoteBell\android\app\src\main\AndroidManifest.xml:7:5-87
+14-->C:\Users\Liuc\Documents\Codex\2026-05-31\exe-apk-apk-wifi\work\RemoteBell\android\app\src\main\AndroidManifest.xml:7:22-84
+15    <uses-permission android:name="android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK" />
+15-->C:\Users\Liuc\Documents\Codex\2026-05-31\exe-apk-apk-wifi\work\RemoteBell\android\app\src\main\AndroidManifest.xml:8:5-92
+15-->C:\Users\Liuc\Documents\Codex\2026-05-31\exe-apk-apk-wifi\work\RemoteBell\android\app\src\main\AndroidManifest.xml:8:22-89
+16    <uses-permission android:name="android.permission.USE_FULL_SCREEN_INTENT" />
+16-->C:\Users\Liuc\Documents\Codex\2026-05-31\exe-apk-apk-wifi\work\RemoteBell\android\app\src\main\AndroidManifest.xml:9:5-81
+16-->C:\Users\Liuc\Documents\Codex\2026-05-31\exe-apk-apk-wifi\work\RemoteBell\android\app\src\main\AndroidManifest.xml:9:22-78
+17    <uses-permission android:name="android.permission.WAKE_LOCK" />
+17-->C:\Users\Liuc\Documents\Codex\2026-05-31\exe-apk-apk-wifi\work\RemoteBell\android\app\src\main\AndroidManifest.xml:10:5-68
+17-->C:\Users\Liuc\Documents\Codex\2026-05-31\exe-apk-apk-wifi\work\RemoteBell\android\app\src\main\AndroidManifest.xml:10:22-65
+18    <uses-permission android:name="android.permission.VIBRATE" />
+18-->C:\Users\Liuc\Documents\Codex\2026-05-31\exe-apk-apk-wifi\work\RemoteBell\android\app\src\main\AndroidManifest.xml:11:5-66
+18-->C:\Users\Liuc\Documents\Codex\2026-05-31\exe-apk-apk-wifi\work\RemoteBell\android\app\src\main\AndroidManifest.xml:11:22-63
+19
+20    <application
+20-->C:\Users\Liuc\Documents\Codex\2026-05-31\exe-apk-apk-wifi\work\RemoteBell\android\app\src\main\AndroidManifest.xml:13:5-43:19
+21        android:allowBackup="false"
+21-->C:\Users\Liuc\Documents\Codex\2026-05-31\exe-apk-apk-wifi\work\RemoteBell\android\app\src\main\AndroidManifest.xml:14:9-36
+22        android:debuggable="true"
+23        android:extractNativeLibs="false"
+24        android:icon="@drawable/ic_launcher"
+24-->C:\Users\Liuc\Documents\Codex\2026-05-31\exe-apk-apk-wifi\work\RemoteBell\android\app\src\main\AndroidManifest.xml:15:9-45
+25        android:label="Remote Bell"
+25-->C:\Users\Liuc\Documents\Codex\2026-05-31\exe-apk-apk-wifi\work\RemoteBell\android\app\src\main\AndroidManifest.xml:16:9-36
+26        android:roundIcon="@drawable/ic_launcher"
+26-->C:\Users\Liuc\Documents\Codex\2026-05-31\exe-apk-apk-wifi\work\RemoteBell\android\app\src\main\AndroidManifest.xml:17:9-50
+27        android:supportsRtl="true"
+27-->C:\Users\Liuc\Documents\Codex\2026-05-31\exe-apk-apk-wifi\work\RemoteBell\android\app\src\main\AndroidManifest.xml:18:9-35
+28        android:theme="@style/AppTheme"
+28-->C:\Users\Liuc\Documents\Codex\2026-05-31\exe-apk-apk-wifi\work\RemoteBell\android\app\src\main\AndroidManifest.xml:19:9-40
+29        android:usesCleartextTraffic="false" >
+29-->C:\Users\Liuc\Documents\Codex\2026-05-31\exe-apk-apk-wifi\work\RemoteBell\android\app\src\main\AndroidManifest.xml:20:9-45
+30        <activity
+30-->C:\Users\Liuc\Documents\Codex\2026-05-31\exe-apk-apk-wifi\work\RemoteBell\android\app\src\main\AndroidManifest.xml:22:9-28:43
+31            android:name="com.liuc.remotebell.AlarmActivity"
+31-->C:\Users\Liuc\Documents\Codex\2026-05-31\exe-apk-apk-wifi\work\RemoteBell\android\app\src\main\AndroidManifest.xml:23:13-42
+32            android:excludeFromRecents="true"
+32-->C:\Users\Liuc\Documents\Codex\2026-05-31\exe-apk-apk-wifi\work\RemoteBell\android\app\src\main\AndroidManifest.xml:24:13-46
+33            android:exported="false"
+33-->C:\Users\Liuc\Documents\Codex\2026-05-31\exe-apk-apk-wifi\work\RemoteBell\android\app\src\main\AndroidManifest.xml:25:13-37
+34            android:launchMode="singleTop"
+34-->C:\Users\Liuc\Documents\Codex\2026-05-31\exe-apk-apk-wifi\work\RemoteBell\android\app\src\main\AndroidManifest.xml:26:13-43
+35            android:showWhenLocked="true"
+35-->C:\Users\Liuc\Documents\Codex\2026-05-31\exe-apk-apk-wifi\work\RemoteBell\android\app\src\main\AndroidManifest.xml:27:13-42
+36            android:turnScreenOn="true" />
+36-->C:\Users\Liuc\Documents\Codex\2026-05-31\exe-apk-apk-wifi\work\RemoteBell\android\app\src\main\AndroidManifest.xml:28:13-40
+37        <activity
+37-->C:\Users\Liuc\Documents\Codex\2026-05-31\exe-apk-apk-wifi\work\RemoteBell\android\app\src\main\AndroidManifest.xml:30:9-37:20
+38            android:name="com.liuc.remotebell.MainActivity"
+38-->C:\Users\Liuc\Documents\Codex\2026-05-31\exe-apk-apk-wifi\work\RemoteBell\android\app\src\main\AndroidManifest.xml:31:13-41
+39            android:exported="true" >
+39-->C:\Users\Liuc\Documents\Codex\2026-05-31\exe-apk-apk-wifi\work\RemoteBell\android\app\src\main\AndroidManifest.xml:32:13-36
+40            <intent-filter>
+40-->C:\Users\Liuc\Documents\Codex\2026-05-31\exe-apk-apk-wifi\work\RemoteBell\android\app\src\main\AndroidManifest.xml:33:13-36:29
+41                <action android:name="android.intent.action.MAIN" />
+41-->C:\Users\Liuc\Documents\Codex\2026-05-31\exe-apk-apk-wifi\work\RemoteBell\android\app\src\main\AndroidManifest.xml:34:17-69
+41-->C:\Users\Liuc\Documents\Codex\2026-05-31\exe-apk-apk-wifi\work\RemoteBell\android\app\src\main\AndroidManifest.xml:34:25-66
+42
+43                <category android:name="android.intent.category.LAUNCHER" />
+43-->C:\Users\Liuc\Documents\Codex\2026-05-31\exe-apk-apk-wifi\work\RemoteBell\android\app\src\main\AndroidManifest.xml:35:17-77
+43-->C:\Users\Liuc\Documents\Codex\2026-05-31\exe-apk-apk-wifi\work\RemoteBell\android\app\src\main\AndroidManifest.xml:35:27-74
+44            </intent-filter>
+45        </activity>
+46
+47        <service
+47-->C:\Users\Liuc\Documents\Codex\2026-05-31\exe-apk-apk-wifi\work\RemoteBell\android\app\src\main\AndroidManifest.xml:39:9-42:70
+48            android:name="com.liuc.remotebell.ListenerService"
+48-->C:\Users\Liuc\Documents\Codex\2026-05-31\exe-apk-apk-wifi\work\RemoteBell\android\app\src\main\AndroidManifest.xml:40:13-44
+49            android:exported="false"
+49-->C:\Users\Liuc\Documents\Codex\2026-05-31\exe-apk-apk-wifi\work\RemoteBell\android\app\src\main\AndroidManifest.xml:41:13-37
+50            android:foregroundServiceType="dataSync|mediaPlayback" />
+50-->C:\Users\Liuc\Documents\Codex\2026-05-31\exe-apk-apk-wifi\work\RemoteBell\android\app\src\main\AndroidManifest.xml:42:13-67
+51    </application>
+52
+53</manifest>

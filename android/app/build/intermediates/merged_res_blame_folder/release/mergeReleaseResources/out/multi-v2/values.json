@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.liuc.remotebell.app-mergeReleaseResources-2:/values/values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Liuc\\Documents\\Codex\\2026-05-31\\exe-apk-apk-wifi\\work\\RemoteBell\\android\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "440"
+                    }
+                }
+            ]
+        }
+    ]
+}

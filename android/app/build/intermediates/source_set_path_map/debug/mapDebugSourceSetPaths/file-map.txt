@@ -1,0 +1,7 @@
+com.liuc.remotebell.app-pngs-0 C:\Users\Liuc\Documents\Codex\2026-05-31\exe-apk-apk-wifi\work\RemoteBell\android\app\build\generated\res\pngs\debug
+com.liuc.remotebell.app-resValues-1 C:\Users\Liuc\Documents\Codex\2026-05-31\exe-apk-apk-wifi\work\RemoteBell\android\app\build\generated\res\resValues\debug
+com.liuc.remotebell.app-packageDebugResources-2 C:\Users\Liuc\Documents\Codex\2026-05-31\exe-apk-apk-wifi\work\RemoteBell\android\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.liuc.remotebell.app-packageDebugResources-3 C:\Users\Liuc\Documents\Codex\2026-05-31\exe-apk-apk-wifi\work\RemoteBell\android\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.liuc.remotebell.app-debug-4 C:\Users\Liuc\Documents\Codex\2026-05-31\exe-apk-apk-wifi\work\RemoteBell\android\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.liuc.remotebell.app-debug-5 C:\Users\Liuc\Documents\Codex\2026-05-31\exe-apk-apk-wifi\work\RemoteBell\android\app\src\debug\res
+com.liuc.remotebell.app-main-6 C:\Users\Liuc\Documents\Codex\2026-05-31\exe-apk-apk-wifi\work\RemoteBell\android\app\src\main\res

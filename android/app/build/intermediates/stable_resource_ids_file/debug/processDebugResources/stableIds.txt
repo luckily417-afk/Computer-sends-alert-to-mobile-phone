@@ -1,0 +1,2 @@
+com.liuc.remotebell:style/AppTheme = 0x7f020000
+com.liuc.remotebell:drawable/ic_launcher = 0x7f010000

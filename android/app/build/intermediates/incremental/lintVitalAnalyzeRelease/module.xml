@@ -1,0 +1,19 @@
+<lint-module
+    format="1"
+    dir="C:\Users\Liuc\Documents\Codex\2026-05-31\exe-apk-apk-wifi\work\RemoteBell\android\app"
+    name=":app"
+    type="APP"
+    maven="RemoteBell:app:unspecified"
+    agpVersion="8.5.2"
+    buildFolder="build"
+    bootClassPath="C:\Users\Liuc\Documents\Codex\2026-05-31\exe-apk-apk-wifi\work\tools\android-sdk\platforms\android-35\android.jar;C:\Users\Liuc\Documents\Codex\2026-05-31\exe-apk-apk-wifi\work\tools\android-sdk\build-tools\34.0.0\core-lambda-stubs.jar"
+    javaSourceLevel="17"
+    compileTarget="android-35"
+    neverShrinking="true">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>
